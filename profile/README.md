@@ -38,3 +38,16 @@ Key achievements include:
 
 ### Bitcoin Workshop for Journalists  
 <img src="https://cdn.blot.im/blog_378314d0a9ec45bfa46b3bc7d3718410/_image_cache/f0e802ee-94e5-4921-8c21-54dd2b28780e.jpg" alt="Bitcoin Workshop for Journalists" width="600"/>
+
+<hr>
+
+# BitDevs-Zambia
+BitDevs Zambia is a Bitcoin Zambia initiative to foster Bitcoin development, education, and open-source collaboration in Zambia. Inspired by global BitDevs communities, this project provides a local space for developers, researchers, and Bitcoin enthusiasts to study and contribute to Bitcoin's protocol and ecosystem.
+
+The initiative officially launched during the first BitDev workshop in Lusaka (April 2025), hosted by Bitcoin Zambia and Anita Posch, and supported by Bitcoin for Fairness.
+
+## Goals:
+    • Host regular BitDevs-style Socratic Seminars and Bitcoin Reading Groups
+    • Support local developers learning to build with and contribute to Bitcoin
+    • Curate resources, discussion notes, and learning materials relevant to the Zambian context
+    • Promote free and open-source contributions to Bitcoin and related technologies
